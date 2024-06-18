@@ -1,0 +1,2 @@
+[console_scripts]
+camera_subscriber = my_cm1_pkg.camera_subscriber:main

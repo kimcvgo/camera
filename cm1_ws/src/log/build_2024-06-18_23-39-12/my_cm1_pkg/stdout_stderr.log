@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/my_cm1_pkg/my_cm1_pkg.egg-info/PKG-INFO
+writing dependency_links to ../build/my_cm1_pkg/my_cm1_pkg.egg-info/dependency_links.txt
+writing entry points to ../build/my_cm1_pkg/my_cm1_pkg.egg-info/entry_points.txt
+writing requirements to ../build/my_cm1_pkg/my_cm1_pkg.egg-info/requires.txt
+writing top-level names to ../build/my_cm1_pkg/my_cm1_pkg.egg-info/top_level.txt
+reading manifest file '../build/my_cm1_pkg/my_cm1_pkg.egg-info/SOURCES.txt'
+writing manifest file '../build/my_cm1_pkg/my_cm1_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_cm1_pkg/camera_subscriber.py -> /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build/lib/my_cm1_pkg
+running install
+running install_lib
+copying /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build/lib/my_cm1_pkg/camera_subscriber.py -> /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg
+byte-compiling /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg/camera_subscriber.py to camera_subscriber.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/my_cm1_pkg/my_cm1_pkg.egg-info to /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera_subscriber script to /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/my_cm1_pkg
+writing list of installed files to '/home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/install.log'

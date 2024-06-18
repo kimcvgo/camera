@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/my_cm1_pkg/my_cm1_pkg.egg-info
+writing ../build/my_cm1_pkg/my_cm1_pkg.egg-info/PKG-INFO
+writing dependency_links to ../build/my_cm1_pkg/my_cm1_pkg.egg-info/dependency_links.txt
+writing entry points to ../build/my_cm1_pkg/my_cm1_pkg.egg-info/entry_points.txt
+writing requirements to ../build/my_cm1_pkg/my_cm1_pkg.egg-info/requires.txt
+writing top-level names to ../build/my_cm1_pkg/my_cm1_pkg.egg-info/top_level.txt
+writing manifest file '../build/my_cm1_pkg/my_cm1_pkg.egg-info/SOURCES.txt'
+reading manifest file '../build/my_cm1_pkg/my_cm1_pkg.egg-info/SOURCES.txt'
+writing manifest file '../build/my_cm1_pkg/my_cm1_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build
+creating /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build/lib
+creating /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build/lib/my_cm1_pkg
+copying my_cm1_pkg/camera_subscriber.py -> /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build/lib/my_cm1_pkg
+copying my_cm1_pkg/__init__.py -> /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build/lib/my_cm1_pkg
+running install
+running install_lib
+creating /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg
+copying /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build/lib/my_cm1_pkg/camera_subscriber.py -> /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg
+copying /home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/build/lib/my_cm1_pkg/__init__.py -> /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg
+byte-compiling /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg/camera_subscriber.py to camera_subscriber.cpython-310.pyc
+byte-compiling /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/share/ament_index
+creating /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/share/ament_index/resource_index
+creating /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/share/ament_index/resource_index/packages
+copying resource/my_cm1_pkg -> /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/share/my_cm1_pkg
+running install_egg_info
+Copying ../build/my_cm1_pkg/my_cm1_pkg.egg-info to /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/python3.10/site-packages/my_cm1_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing camera_subscriber script to /home/byunghyun/Desktop/cm1_ws/src/install/my_cm1_pkg/lib/my_cm1_pkg
+writing list of installed files to '/home/byunghyun/Desktop/cm1_ws/src/build/my_cm1_pkg/install.log'
